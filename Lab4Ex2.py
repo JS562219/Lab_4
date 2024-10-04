@@ -1,3 +1,4 @@
+#Brushed Unidirectional DC Motor
 from machine import Pin, ADC, PWM
 import time
 
